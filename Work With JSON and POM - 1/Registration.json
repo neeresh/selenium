@@ -1,0 +1,29 @@
+{
+	"cover":"Registration",
+	"Userdetails":[
+	    {
+	    	"id":"2",
+			"Name":"john",
+			"Email":"john123@gmail.com",
+			"Phone":"9123456293",
+         	"Age":"26",
+         	"Password":"john@123",
+         	"Hobbies":"Cricket",
+         	"Gender":"Male",
+         	"City":"Chennai",
+           	"Address":"Chennai"
+     	},
+		{
+			"id":"1",
+			"Name":"david",
+			"Email":"david@gmail.com",
+			"Phone":"9313456293",
+         	"Age":"28",
+         	"Password":"david@123",
+         	"Hobbies":"Football",
+         	"Gender":"Male",
+         	"City":"Chennai",
+           	"Address":"Chennai"
+     	}
+	]
+}
