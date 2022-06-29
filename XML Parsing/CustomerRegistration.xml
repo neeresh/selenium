@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CustomerDetails>
+  <Customer id = "1001">
+    <CustomerName>George</CustomerName>
+    <Age>30</Age>
+    <Address>Mint Street</Address>
+    <Phone>8989234356</Phone>
+    <Email>George@mint.com</Email>
+  </Customer>
+</CustomerDetails>

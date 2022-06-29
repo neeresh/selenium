@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CustomerDetails>
+  <Customer id = "1">
+    <Name>Rahul</Name>
+    <Phone>9871231211</Phone>
+    <DOB>25-02-2000</DOB>
+    <Gender>Male</Gender>
+    <Address>Chennai</Address>
+  </Customer>
+</CustomerDetails>

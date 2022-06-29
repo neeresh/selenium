@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Userdetails>
+  <User id = "1">
+    <Firstname>Rahul</Firstname>
+    <Lastname>Dravid</Lastname>
+    <Username>Rahul Dravid</Username>
+    <Password>RD@123</Password>
+  </User>
+</Userdetails>
